@@ -1,4 +1,4 @@
-# ytvideodownload
+# ytvideodownloader
 ## Описание
 
 YouTube Video Downloader Bot позволяет пользователям скачивать видео с YouTube, отправив ссылку на видео и выбрав желаемое разрешение. Бот обрабатывает видео и предоставляет ссылку для скачивания.
@@ -20,7 +20,7 @@ YouTube Video Downloader Bot позволяет пользователям ск�
 ### Шаг 2: Клонирование репозитория
 
 ```sh
-git clone https://github.com/yourusername/youtube-downloader-bot.git
+git clone https://github.com/annachanova/pythonproject.git
 cd youtube-downloader-bot
 ```
 
